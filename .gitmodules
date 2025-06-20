@@ -1,0 +1,12 @@
+[submodule "Sprint1/CC3S2-PC3"]
+	path = Sprint1/CC3S2-PC3
+	url = https://github.com/Akira-13/CC3S2-PC3.git
+[submodule "Sprint2/CC3S2-PC3"]
+	path = Sprint2/CC3S2-PC3
+	url = https://github.com/Akira-13/CC3S2-PC3.git
+[submodule "Sprint2/tflint-tag-format-validator"]
+	path = Sprint2/tflint-tag-format-validator
+	url = https://github.com/aclj20/tflint-tag-format-validator.git
+[submodule "Sprint3/CC3S2-PC3"]
+	path = Sprint3/CC3S2-PC3
+	url = https://github.com/Akira-13/CC3S2-PC3.git
