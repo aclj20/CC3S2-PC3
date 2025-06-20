@@ -10,3 +10,6 @@
 [submodule "Sprint3/CC3S2-PC3"]
 	path = Sprint3/CC3S2-PC3
 	url = https://github.com/Akira-13/CC3S2-PC3.git
+[submodule "CC3S2-PC3"]
+	path = CC3S2-PC3
+	url = https://github.com/Akira-13/CC3S2-PC3.git
