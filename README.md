@@ -24,4 +24,10 @@ Durante el desarrollo del proyecto, implementé la estructura base para gestiona
 ```
 git clone https://github.com/aclj20/CC3S2-PC3.git
 
+cd iac
+terraform init
+terraform apply
+
+python scripts/validate_network_json.sh
+
 ```
